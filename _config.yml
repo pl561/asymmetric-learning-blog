@@ -28,13 +28,10 @@ twitter_username: pl561
 github_username:  pl561
 
 # Build settings
-markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
-kramdown:
-   math_engine: mathjax
 
 # Exclude from processing.
 # The following items will not be processed, by default.
