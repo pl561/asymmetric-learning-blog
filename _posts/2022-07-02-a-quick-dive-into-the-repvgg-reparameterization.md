@@ -2,7 +2,7 @@
 layout: postmj
 title:  A quick dive into the RegVGG reparameterization
 date:   2022-07-06 21:38:27 +0000
-categories: ai deeplearning computervision
+categories: aicv
 ---
 
 `RepVGG: Making VGG-style ConvNets Great Again` is paper published in the conference CVPR 2021.
