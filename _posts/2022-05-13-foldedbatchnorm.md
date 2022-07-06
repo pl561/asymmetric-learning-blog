@@ -1,7 +1,7 @@
 ---
 layout: postmj
 title: Folded batch normalization
-categories: ai deeplearning computervision
+categories: aicv
 ---
 
 $$ BN(x), \sigma, \mu $$
