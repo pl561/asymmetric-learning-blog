@@ -1,7 +1,7 @@
 ---
 layout: postmj
 title:  A quick dive into the RegVGG reparameterization
-date:   2022-07-06 21:38:27 +0000
+date:   2022-06-06 21:38:27 +0000
 categories: aicv
 ---
 
